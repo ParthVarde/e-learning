@@ -21,7 +21,7 @@
 	<![endif]-->
 	<style>
 th, td {
-    padding:6px;   
+    padding:5px;   
 }
 </style>
 </head>
