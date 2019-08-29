@@ -6,5 +6,3 @@ Also, has an admin panel for better control of the database and users.
 Import the database in your choice of Database Tools.
 The database file is located in db/project.sql.
 I have used the phpmyadmin for creating and storing of my database.
-
-Note: This site does not contain session locking or cookies.If anybod adds feel free to add sessions in the website and send pull request, after verifying i will merge it to the master.
